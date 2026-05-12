@@ -1,0 +1,304 @@
+1
+00:00:00,100 --> 00:00:01,650
+ĐỀ BÀI
+
+2
+00:00:01,600 --> 00:00:06,550
+Tam giác A B C nhọn, không cân, với A B nhỏ hơn A C.
+
+3
+00:00:06,550 --> 00:00:09,725
+Tam giác A B C ngoại tiếp đường tròn I.
+
+4
+00:00:09,725 --> 00:00:16,087
+Các tiếp điểm của đường tròn I với B C, C A, A B lần lượt là D, E, F.
+
+5
+00:00:16,087 --> 00:00:22,950
+Gọi K, L là chân các đường vuông góc hạ từ B, C lên đường thẳng đi qua I và song song với E F.
+
+6
+00:00:22,950 --> 00:00:24,425
+Phần một.
+
+7
+00:00:24,425 --> 00:00:27,362
+Chứng minh D K song song với I C.
+
+8
+00:00:27,362 --> 00:00:28,900
+Phần hai.
+
+9
+00:00:28,900 --> 00:00:34,350
+Chứng minh hai đường thẳng K F và E L cắt nhau tại một điểm nằm trên đường tròn I.
+
+10
+00:00:34,350 --> 00:00:35,887
+Phần ba.
+
+11
+00:00:35,887 --> 00:00:42,200
+Gọi M, N lần lượt là giao điểm khác D của D K, D L với đường tròn I.
+
+12
+00:00:42,200 --> 00:00:45,800
+Đường thẳng M N cắt B C tại P.
+
+13
+00:00:45,800 --> 00:00:49,012
+Dựng đường kính D S của đường tròn I.
+
+14
+00:00:49,012 --> 00:00:52,025
+Chứng minh P I vuông góc với A S.
+
+15
+00:00:52,025 --> 00:00:53,650
+HÌNH VẼ
+
+16
+00:00:53,650 --> 00:00:55,400
+Hình vẽ gồm:
+
+17
+00:00:55,400 --> 00:01:01,350
+Tam giác A B C, trong đó A ở phía trên, B và C nằm trên đường thẳng B C.
+
+18
+00:01:01,350 --> 00:01:07,775
+Đường tròn nội tiếp I tiếp xúc với B C, C A, A B lần lượt tại D, E, F.
+
+19
+00:01:07,775 --> 00:01:10,800
+Đường thẳng qua I song song với E F.
+
+20
+00:01:10,800 --> 00:01:15,850
+Từ B và C hạ các đường vuông góc xuống đường thẳng này lần lượt tại K và L.
+
+21
+00:01:15,850 --> 00:01:20,962
+Các đường D K và D L cắt lại đường tròn I lần lượt tại M và N.
+
+22
+00:01:20,962 --> 00:01:24,562
+Đường thẳng M N cắt B C tại P.
+
+23
+00:01:24,562 --> 00:01:27,662
+D S là đường kính của đường tròn I.
+
+24
+00:01:27,662 --> 00:01:30,862
+Cần chứng minh P I vuông góc với A S.
+
+25
+00:01:30,862 --> 00:01:32,512
+LỜI GIẢI
+
+26
+00:01:32,512 --> 00:01:33,975
+Phần một.
+
+27
+00:01:33,975 --> 00:01:36,912
+Chứng minh D K song song với I C.
+
+28
+00:01:36,912 --> 00:01:44,125
+Ta có E F song song với K I, nên góc K I F bằng góc I F E, và bằng góc I E F.
+
+29
+00:01:44,125 --> 00:01:45,625
+Suy ra:
+
+30
+00:01:45,625 --> 00:01:49,550
+góc K I B bằng góc B I F trừ góc K I F,
+
+31
+00:01:49,550 --> 00:01:52,875
+bằng góc F E D trừ góc I E F,
+
+32
+00:01:52,875 --> 00:01:55,137
+bằng góc I E D,
+
+33
+00:01:55,137 --> 00:01:57,500
+và bằng góc I C D.
+
+34
+00:01:57,500 --> 00:02:02,325
+Mặt khác, do góc B K I bằng góc B D I bằng chín mươi độ,
+
+35
+00:02:02,325 --> 00:02:05,537
+nên tứ giác B K I D nội tiếp.
+
+36
+00:02:05,537 --> 00:02:10,837
+Vì vậy, góc B D K bằng góc B I K, và bằng góc I C D.
+
+37
+00:02:10,837 --> 00:02:13,787
+Suy ra D K song song với I C.
+
+38
+00:02:13,787 --> 00:02:15,325
+Phần hai.
+
+39
+00:02:15,325 --> 00:02:19,362
+Chứng minh K F và E L cắt nhau trên đường tròn I.
+
+40
+00:02:19,362 --> 00:02:24,687
+Do góc B F I bằng chín mươi độ, nên F thuộc đường tròn đường kính B I.
+
+41
+00:02:24,687 --> 00:02:29,412
+Suy ra năm điểm B, K, F, I, D đồng viên.
+
+42
+00:02:29,412 --> 00:02:32,975
+Gọi giao điểm của K F với đường tròn I là J.
+
+43
+00:02:32,975 --> 00:02:34,500
+Ta có:
+
+44
+00:02:34,500 --> 00:02:38,725
+góc J E D bằng một trăm tám mươi độ trừ góc I F D,
+
+45
+00:02:38,725 --> 00:02:41,012
+bằng góc K F D,
+
+46
+00:02:41,012 --> 00:02:43,387
+và bằng góc K I D.
+
+47
+00:02:43,387 --> 00:02:49,437
+Tương tự, các điểm I, E, L, D, C đồng viên, nên:
+
+48
+00:02:49,437 --> 00:02:54,087
+góc D E L bằng một trăm tám mươi độ trừ góc D C L,
+
+49
+00:02:54,087 --> 00:02:56,787
+và bằng góc D I L.
+
+50
+00:02:56,787 --> 00:02:58,325
+Do đó:
+
+51
+00:02:58,325 --> 00:03:01,687
+góc J E D cộng góc D E L,
+
+52
+00:03:01,687 --> 00:03:05,262
+bằng góc K I D cộng góc D I L,
+
+53
+00:03:05,262 --> 00:03:07,512
+bằng một trăm tám mươi độ.
+
+54
+00:03:07,512 --> 00:03:11,037
+Suy ra J, E, L thẳng hàng.
+
+55
+00:03:11,037 --> 00:03:17,237
+Vậy hai đường thẳng K F và E L cắt nhau tại J, là một điểm nằm trên đường tròn I.
+
+56
+00:03:17,237 --> 00:03:18,775
+Phần ba.
+
+57
+00:03:18,775 --> 00:03:21,775
+Chứng minh P I vuông góc với A S.
+
+58
+00:03:21,775 --> 00:03:26,600
+Do K D song song với I C, mà I C vuông góc với E D,
+
+59
+00:03:26,600 --> 00:03:29,575
+nên K D vuông góc với E D.
+
+60
+00:03:29,575 --> 00:03:33,125
+Suy ra E, I, M thẳng hàng.
+
+61
+00:03:33,125 --> 00:03:36,962
+Tương tự, F, I, N thẳng hàng.
+
+62
+00:03:36,962 --> 00:03:40,800
+Do đó M N E F là hình chữ nhật.
+
+63
+00:03:40,800 --> 00:03:46,125
+Gọi X, Y lần lượt là giao điểm của A I với E F và M N.
+
+64
+00:03:46,125 --> 00:03:48,825
+Khi đó I X bằng I Y.
+
+65
+00:03:48,825 --> 00:03:50,350
+Hơn nữa:
+
+66
+00:03:50,350 --> 00:03:55,575
+I X nhân I A bằng I E bình phương, và bằng I S nhân I D.
+
+67
+00:03:55,575 --> 00:03:57,062
+Suy ra:
+
+68
+00:03:57,062 --> 00:04:00,700
+I S chia I A bằng I Y chia I D.
+
+69
+00:04:00,700 --> 00:04:04,300
+Kết hợp với góc A I S bằng góc D I Y,
+
+70
+00:04:04,300 --> 00:04:10,487
+ta được tam giác A I S đồng dạng với tam giác D I Y theo trường hợp cạnh, góc, cạnh.
+
+71
+00:04:10,487 --> 00:04:13,975
+Do đó góc S A I bằng góc I D Y.
+
+72
+00:04:13,975 --> 00:04:17,762
+Mặt khác, I A vuông góc với M N,
+
+73
+00:04:17,762 --> 00:04:22,625
+nên góc I Y P bằng góc I D P, và cùng bằng chín mươi độ.
+
+74
+00:04:22,625 --> 00:04:27,187
+Suy ra tứ giác P D Y I nội tiếp đường tròn đường kính P I.
+
+75
+00:04:27,187 --> 00:04:32,212
+Do đó góc I P Y bằng góc I D Y, và bằng góc I A S.
+
+76
+00:04:32,212 --> 00:04:35,312
+Vậy A S vuông góc với P I.
+

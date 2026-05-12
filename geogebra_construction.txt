@@ -1,0 +1,47 @@
+GeoGebra construction commands
+
+Paste the commands below into GeoGebra's input bar, one by one.
+
+A = (0, 4.5)
+B = (-2.5, 0)
+C = (6, 0)
+
+I = Incenter(A, B, C)
+omega = Circle(I, Distance(I, Line(B, C)))
+
+D = Foot(I, Line(B, C))
+E = Foot(I, Line(C, A))
+F = Foot(I, Line(A, B))
+
+triangleABC = Polygon(A, B, C)
+
+ef = Line(E, F)
+kl = Line(I, ef)
+
+K = Foot(B, kl)
+L = Foot(C, kl)
+
+dk = Line(D, K)
+dl = Line(D, L)
+ic = Line(I, C)
+ib = Line(I, B)
+
+M = Element(Intersect(dk, omega), 2)
+N = Element(Intersect(dl, omega), 2)
+
+mn = Line(M, N)
+bc = Line(B, C)
+P = Intersect(mn, bc)
+
+S = Reflect(D, I)
+ds = Segment(D, S)
+as = Line(A, S)
+pi = Line(P, I)
+
+X = Intersect(Line(A, I), ef)
+Y = Intersect(Line(A, I), mn)
+
+Notes:
+- If GeoGebra chooses D instead of the second intersection for M or N, change Element(..., 2) to Element(..., 1).
+- The Python construction in geometric_construction.py computes the same objects numerically and validates:
+  DK parallel IC, DL parallel IB, M and N on omega, P on MN and BC, DS as diameter, and AS perpendicular PI.

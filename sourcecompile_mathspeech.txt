@@ -1,0 +1,110 @@
+ĐỀ BÀI
+
+Tam giác A B C nhọn, không cân, với A B nhỏ hơn A C.
+Tam giác A B C ngoại tiếp đường tròn I.
+Các tiếp điểm của đường tròn I với B C, C A, A B lần lượt là D, E, F.
+
+Gọi K, L là chân các đường vuông góc hạ từ B, C lên đường thẳng đi qua I và song song với E F.
+
+Phần một. Chứng minh D K song song với I C.
+
+Phần hai. Chứng minh hai đường thẳng K F và E L cắt nhau tại một điểm nằm trên đường tròn I.
+
+Phần ba. Gọi M, N lần lượt là giao điểm khác D của D K, D L với đường tròn I.
+Đường thẳng M N cắt B C tại P.
+Dựng đường kính D S của đường tròn I.
+Chứng minh P I vuông góc với A S.
+
+
+HÌNH VẼ
+
+Hình vẽ gồm:
+
+Tam giác A B C, trong đó A ở phía trên, B và C nằm trên đường thẳng B C.
+
+Đường tròn nội tiếp I tiếp xúc với B C, C A, A B lần lượt tại D, E, F.
+
+Đường thẳng qua I song song với E F.
+Từ B và C hạ các đường vuông góc xuống đường thẳng này lần lượt tại K và L.
+
+Các đường D K và D L cắt lại đường tròn I lần lượt tại M và N.
+
+Đường thẳng M N cắt B C tại P.
+
+D S là đường kính của đường tròn I.
+
+Cần chứng minh P I vuông góc với A S.
+
+
+LỜI GIẢI
+
+Phần một. Chứng minh D K song song với I C.
+
+Ta có E F song song với K I, nên góc K I F bằng góc I F E, và bằng góc I E F.
+
+Suy ra:
+góc K I B bằng góc B I F trừ góc K I F,
+bằng góc F E D trừ góc I E F,
+bằng góc I E D,
+và bằng góc I C D.
+
+Mặt khác, do góc B K I bằng góc B D I bằng chín mươi độ,
+nên tứ giác B K I D nội tiếp.
+Vì vậy, góc B D K bằng góc B I K, và bằng góc I C D.
+
+Suy ra D K song song với I C.
+
+
+Phần hai. Chứng minh K F và E L cắt nhau trên đường tròn I.
+
+Do góc B F I bằng chín mươi độ, nên F thuộc đường tròn đường kính B I.
+Suy ra năm điểm B, K, F, I, D đồng viên.
+
+Gọi giao điểm của K F với đường tròn I là J.
+Ta có:
+góc J E D bằng một trăm tám mươi độ trừ góc I F D,
+bằng góc K F D,
+và bằng góc K I D.
+
+Tương tự, các điểm I, E, L, D, C đồng viên, nên:
+góc D E L bằng một trăm tám mươi độ trừ góc D C L,
+và bằng góc D I L.
+
+Do đó:
+góc J E D cộng góc D E L,
+bằng góc K I D cộng góc D I L,
+bằng một trăm tám mươi độ.
+
+Suy ra J, E, L thẳng hàng.
+Vậy hai đường thẳng K F và E L cắt nhau tại J, là một điểm nằm trên đường tròn I.
+
+
+Phần ba. Chứng minh P I vuông góc với A S.
+
+Do K D song song với I C, mà I C vuông góc với E D,
+nên K D vuông góc với E D.
+Suy ra E, I, M thẳng hàng.
+
+Tương tự, F, I, N thẳng hàng.
+Do đó M N E F là hình chữ nhật.
+
+Gọi X, Y lần lượt là giao điểm của A I với E F và M N.
+Khi đó I X bằng I Y.
+
+Hơn nữa:
+I X nhân I A bằng I E bình phương, và bằng I S nhân I D.
+
+Suy ra:
+I S chia I A bằng I Y chia I D.
+
+Kết hợp với góc A I S bằng góc D I Y,
+ta được tam giác A I S đồng dạng với tam giác D I Y theo trường hợp cạnh, góc, cạnh.
+Do đó góc S A I bằng góc I D Y.
+
+Mặt khác, I A vuông góc với M N,
+nên góc I Y P bằng góc I D P, và cùng bằng chín mươi độ.
+
+Suy ra tứ giác P D Y I nội tiếp đường tròn đường kính P I.
+Do đó góc I P Y bằng góc I D Y, và bằng góc I A S.
+
+Vậy A S vuông góc với P I.
